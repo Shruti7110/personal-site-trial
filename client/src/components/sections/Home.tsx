@@ -23,9 +23,11 @@ export default function Home() {
             <span className="text-[#18F0FF]">Hey,</span> I'm Shruti
           </h1>
           <p className="text-xl text-[#E4E4E4]/80 mb-8">
-            "Helping businesses grow with intelligent automation & real-time ML solutions"
-            <br />
-            • Freelance AI Engineer • Web Developer • Workflow Optimizer
+          I was an Electrical Engineer, but frankly, I got tired of doing all the work myself. 
+            So, I learned to build <strong>AI</strong> that does it for me (and for you!). 
+            If finding the smartest shortcut is an art, consider me your resident master.
+            Welcome to the future of efficient business.<br /><br />
+            <i>AI Engineer | Web Developer | Workflow Optimization Specialist</i>
           </p>
           <div className="flex gap-4">
             <Button

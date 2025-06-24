@@ -38,23 +38,14 @@ export default function Skills() {
           </div>
 
           <div className="mt-12">
-            <h3 className="text-1xl font-bold mb-6 text-[#FF157E]">
-              Specialized in LLM Engineering
-            </h3>
+            <h2 className="text-3xl font-bold mb-6 text-[#FF157E]">
+                Skills
+              </h2>            
             <ul className="list-disc list-inside space-y-3 text-[#E4E4E4]/90">
               <li>RAG (Retrieval Augmented Generation)</li>
               <li>LLM Fine-tuning</li>
-              <li>Prompt Engineering</li>
               <li>Vector Databases</li>
-              
-              </ul>
-              <br></br>
-              <h3 className="text-1xl font-bold mb-6 text-[#FF157E]">
-                Skillsets developed oustide of LLM Engineering
-              </h3>
-            
-            <ul className="list-disc list-inside space-y-3 text-[#E4E4E4]/90">
-              <li>Computer Vision Engineering</li>
+              <li>Computer Vision </li>
               <li>Machine Learning & Predictive Maintenance</li>
               <li>Arduino Programming</li>
               <li>Embedded Systems</li>              
